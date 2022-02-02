@@ -1,7 +1,7 @@
 
 ### About Me  👩🏻‍💻
   
-### Welcome! 👋  I'm Susanna, a student in the Front-End Engineering Program at the Turing School of Software and Design:
+### Hello 👋  I'm Susanna, a student in the Front-End Engineering Program at the Turing School of Software and Design:
 
 - 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   
