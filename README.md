@@ -3,7 +3,7 @@
   
 ### Hello 👋  I'm Susanna, a student in the Front-End Engineering Program at the Turing School of Software and Design:
 
-- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) & ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) & ![TypeScript](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img )
   
 - ❓ Ask me about JS/HTML/CSS
 
