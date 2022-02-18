@@ -3,7 +3,7 @@
   
 ### Hello 👋  I'm Susanna, a student in the Front-End Engineering Program at the Turing School of Software and Design:
 
-- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) & Cypress
+- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) & ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
   
 - ❓ Ask me about JS/HTML/CSS
 
