@@ -3,9 +3,10 @@
   
 ### Hello 👋  I'm Susanna, a student in the Front-End Engineering Program at the Turing School of Software and Design:
 
-- 🌱 I’m currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) & TypeScript
+- 🌱 I’m currently learning ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+
   
-- ❓ Ask me about JS/HTML/CSS
+- ❓ Ask me about ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) & ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 - ⚡ Fun fact: I prefer VS Code to Atom
 
