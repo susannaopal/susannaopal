@@ -1,7 +1,7 @@
 
 ### About Me  👩🏻‍💻
   
-### Hello 👋  I'm Susanna, a student in the Front-End Engineering Program at the Turing School of Software and Design:
+### Hello 👋  I'm Susanna, a recent graduate from in Front-End Engineering Program at the Turing School of Software and Design and looking for full time opportunitines as a software engineer:
 
 - 🌱 I’m currently learning:  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
