@@ -1,15 +1,8 @@
 
 ### About Me  👩🏻‍💻
   
-### Hello 👋  I'm Susanna, a recent graduate from in Front-End Engineering Program at the Turing School of Software and Design and looking for full time opportunitines as a software engineer!
+### Hello 👋  I'm Susanna, a graduate from in Front-End Engineering Program at the Turing School of Software and Design and looking for full time opportunitines as a software engineer!
 
-<!-- - 🌱 I’m currently learning about:  PostgreSQL && Docker
-
-  
-- ❓ Ask me about: ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) & ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-- ⚡ Fun fact: I prefer ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) to  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
- -->
 💻 How to reach me: **susannaopal@gmail.com**
 
 ### Connect with me  
@@ -22,8 +15,6 @@
 </a>
 </div>  
 <br/>  
-
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=susannaopal&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" align="center" /></div>  
