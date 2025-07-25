@@ -1,7 +1,7 @@
 
 ### About Me  👩🏻‍💻
   
-### Hello 👋  I'm Susanna, a graduate from in Front-End Engineering Program at the Turing School of Software and Design and looking for full time opportunitines as a software engineer!
+### Hello 👋  I'm Susanna.
 
 💻 How to reach me: **susannaopal@gmail.com**
 
